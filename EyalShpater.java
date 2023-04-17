@@ -4,7 +4,7 @@ public class EyalShpater
 	{
 		for(int i = 1; i <= 10; i++)
 		{
-			System.out.println("Good Morning Eyal Shpater");
+			System.out.println("Another print of my name: Eyal Shpater");
 		}
 	}
 }
